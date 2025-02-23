@@ -1,0 +1,23 @@
+Folders
+
+Build Timeout
+
+Timestamper
+
+Workspace Cleanup
+
+Pipeline
+
+Pipeline Graph View
+
+Parameterized Trigger
+
+Git
+
+Matrix Authorization Strategy
+
+LDAP
+
+Role-based Authorization Strategy
+
+Email Extension
